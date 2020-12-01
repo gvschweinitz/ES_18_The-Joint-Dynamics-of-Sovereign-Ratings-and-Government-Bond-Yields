@@ -12,7 +12,7 @@ Please cite as
 El-Shagi, M., & von Schweinitz, G. (2018). The joint dynamics of sovereign ratings and government bond yields. Journal of Banking & Finance, 97, 198-218.
 
 In case of questions and errors, please write an email to
-gsz@iwh-halle.de
+gregorvon.schweinitz@iwh-halle.de
 
 #################################
 The folder "Rating Data" contains the raw rating information obtained from www.countryeconomy.com. 
